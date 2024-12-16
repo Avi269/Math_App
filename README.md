@@ -23,13 +23,10 @@ This is a standalone application for performing mathematical calculations such a
 - **No installation needed!** Simply run the executable on your system.
 - Compatible with Windows operating systems.
 
-## Screenshot
-*(Include a screenshot of your app in action here if available.)*
-
 ## Author
 Created by **Atanu Debnath**.  
-[LinkedIn](www.linkedin.com/in/habibparvej)  
-[Email](mailto:habibparvej777@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/atanu-debnath41/)
+[Email](mailto:atanudebnath41@gmail.com)
 
 ## License
 This project is licensed under the MIT License.
